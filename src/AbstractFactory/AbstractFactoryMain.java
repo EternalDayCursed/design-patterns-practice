@@ -1,5 +1,7 @@
 package AbstractFactory;
 
+/*Фабрика по созданию фабрик*/
+
 public class AbstractFactoryMain {
     public static void main(String[] args) {
         Factory factory = new AbstractFactory().createFactory("Car");

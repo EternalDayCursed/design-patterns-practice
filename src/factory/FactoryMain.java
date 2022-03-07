@@ -1,5 +1,7 @@
 package factory;
 
+/*Создание фабрик по созданию чего-либо*/
+
 public class FactoryMain {
     public static void main(String[] args) {
         PhoneFactory phoneFactory = new PhoneFactory();
