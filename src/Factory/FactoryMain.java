@@ -1,4 +1,4 @@
-package factory;
+package Factory;
 
 /*Создание фабрик по созданию чего-либо*/
 
